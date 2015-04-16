@@ -1,5 +1,5 @@
 # CAMT053Parser
-CAMT053Parser - a CAMT.053 XML format based bank statement parser
+CAMT053Parser - a CAMT.053 XML format based bank statement parser for Java
 
 The CAMT053 parser supports [camt.053.001.02](http://www.iso20022.org/message_archive.page#Bank2CustomerCashManagement) and will
 read a CAMT.053 XML formatted input stream and returns a document model holding the bank statement.
